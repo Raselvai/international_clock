@@ -1,2 +1,2 @@
 # international_clock
-JavaScript Clock with HTML CSS
+JavaScript Clock with HTML CSS 
